@@ -1,2 +1,4 @@
 foo|foo-1.0.0.spk
-sudo|sudo-1.9.18.spk
+libgpg-error|libgpg-error-1.61.spk
+libgpg-error-includes|libgpg-error-1.61.spk
+
