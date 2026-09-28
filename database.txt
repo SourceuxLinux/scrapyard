@@ -1,4 +1,7 @@
 foo|foo-1.0.0.spk
 libgpg-error|libgpg-error-1.61.spk
 libgpg-error-includes|libgpg-error-1.61.spk
+libgcrypt|libgcrypt-1.12.4.spk
+libgcrypt-includes|libgcrypt-includes-1.12.4.spk
+
 
