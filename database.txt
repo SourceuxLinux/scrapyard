@@ -3,5 +3,24 @@ libgpg-error|libgpg-error-1.61.spk
 libgpg-error-includes|libgpg-error-1.61.spk
 libgcrypt|libgcrypt-1.12.4.spk
 libgcrypt-includes|libgcrypt-includes-1.12.4.spk
+zlib|zlib-1.3.2.spk
+zlib-includes|zlib-includes-1.3.2.spk
+brotli|brotli-1.2.0.spk
+brotli-includes|brotli-includes-1.2.0.spk
+zstd|zstd-1.5.7.spk
+zstd-includes|zstd-includes-1.5.7.spk
+nghttp2|nghttp2-1.70.0.spk
+nghttp2-includes|nghttp2-includes-1.70.0.spk
+openssl|openssl-3.6.4.spk
+openssl-includes|openssl-includes-3.6.4.spk
+cyrus-sasl|cyrus-sasl-2.1.28.spk
+cyrus-sasl-includes|cyrus-sasl-includes-2.1.28.spk
+openldap|openldap-2.7.1.spk
+openldap-includes|openldap-includes-2.7.1.spk
+curl|curl-8.22.0.spk
+curl-includes|curl-includes-8.22.0.spk
+steamcmd|steamcmd-1.0.0.spk
+glibc32|glibc32-2.42.spk
+glibc32-includes|glibc32-includes-2.42.spk
 
 
