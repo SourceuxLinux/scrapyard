@@ -1,6 +1,6 @@
 foo|foo-1.0.0.spk
 libgpg-error|libgpg-error-1.61.spk
-libgpg-error-includes|libgpg-error-1.61.spk
+libgpg-error-includes|libgpg-error-includes-1.61.spk
 libgcrypt|libgcrypt-1.12.4.spk
 libgcrypt-includes|libgcrypt-includes-1.12.4.spk
 zlib|zlib-1.3.2.spk
@@ -24,3 +24,4 @@ glibc32|glibc32-2.42.spk
 glibc32-includes|glibc32-includes-2.42.spk
 
 
+ca-certificates|ca-certificates-1.0.spk
